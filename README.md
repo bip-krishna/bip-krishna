@@ -57,15 +57,35 @@ developer tools, and projects that interact with the real world.**
 
 ---
 
-## 🛠️ Tech I Like Working With
+## 🛠️ Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=typescript,python,cpp,c,js,react,nextjs,nodejs,git,github,linux,docker&perline=6" />
-
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c" />
 </p>
 
----
+### AI / ML / Data
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas,sklearn,jupyter" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+</p>
+
+### Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Tools & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,npm" />
+</p>
+
+### Also worked with
+`Framer Motion` · `Zustand` · `Recharts` · `Spline` · `Leaflet` · `PostgreSQL` · `PostGIS` · `GDAL` · `Rasterio`
 
 ## 📌 Featured Projects
 
